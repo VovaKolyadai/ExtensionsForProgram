@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\OneDrive\\Desktop\\HillelPro\\hw\\ExtensionsForProgram\\Lessons.Pro\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D6F8A578-6BCB-4BB3-937B-2950E39F001B}|AnimalHotel\\AnimalHotel.csproj|c:\\users\\admin\\onedrive\\desktop\\hillelpro\\hw\\extensionsforprogram\\lessons.pro\\animalhotel\\animals\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6F8A578-6BCB-4BB3-937B-2950E39F001B}|AnimalHotel\\AnimalHotel.csproj|solutionrelative:animalhotel\\animals\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6F8A578-6BCB-4BB3-937B-2950E39F001B}|AnimalHotel\\AnimalHotel.csproj|c:\\users\\admin\\onedrive\\desktop\\hillelpro\\hw\\extensionsforprogram\\lessons.pro\\animalhotel\\animals\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6F8A578-6BCB-4BB3-937B-2950E39F001B}|AnimalHotel\\AnimalHotel.csproj|solutionrelative:animalhotel\\animals\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6F8A578-6BCB-4BB3-937B-2950E39F001B}|AnimalHotel\\AnimalHotel.csproj|c:\\users\\admin\\onedrive\\desktop\\hillelpro\\hw\\extensionsforprogram\\lessons.pro\\animalhotel\\animals\\ianimal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6F8A578-6BCB-4BB3-937B-2950E39F001B}|AnimalHotel\\AnimalHotel.csproj|solutionrelative:animalhotel\\animals\\ianimal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6F8A578-6BCB-4BB3-937B-2950E39F001B}|AnimalHotel\\AnimalHotel.csproj|c:\\users\\admin\\onedrive\\desktop\\hillelpro\\hw\\extensionsforprogram\\lessons.pro\\animalhotel\\animals\\animalfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6F8A578-6BCB-4BB3-937B-2950E39F001B}|AnimalHotel\\AnimalHotel.csproj|solutionrelative:animalhotel\\animals\\animalfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6F8A578-6BCB-4BB3-937B-2950E39F001B}|AnimalHotel\\AnimalHotel.csproj|c:\\users\\admin\\onedrive\\desktop\\hillelpro\\hw\\extensionsforprogram\\lessons.pro\\animalhotel\\hotel\\romashkahotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6F8A578-6BCB-4BB3-937B-2950E39F001B}|AnimalHotel\\AnimalHotel.csproj|solutionrelative:animalhotel\\hotel\\romashkahotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6F8A578-6BCB-4BB3-937B-2950E39F001B}|AnimalHotel\\AnimalHotel.csproj|c:\\users\\admin\\onedrive\\desktop\\hillelpro\\hw\\extensionsforprogram\\lessons.pro\\animalhotel\\hotel\\kyivhotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6F8A578-6BCB-4BB3-937B-2950E39F001B}|AnimalHotel\\AnimalHotel.csproj|solutionrelative:animalhotel\\hotel\\kyivhotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6F8A578-6BCB-4BB3-937B-2950E39F001B}|AnimalHotel\\AnimalHotel.csproj|c:\\users\\admin\\onedrive\\desktop\\hillelpro\\hw\\extensionsforprogram\\lessons.pro\\animalhotel\\hotel\\generichotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6F8A578-6BCB-4BB3-937B-2950E39F001B}|AnimalHotel\\AnimalHotel.csproj|solutionrelative:animalhotel\\hotel\\generichotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6F8A578-6BCB-4BB3-937B-2950E39F001B}|AnimalHotel\\AnimalHotel.csproj|c:\\users\\admin\\onedrive\\desktop\\hillelpro\\hw\\extensionsforprogram\\lessons.pro\\animalhotel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6F8A578-6BCB-4BB3-937B-2950E39F001B}|AnimalHotel\\AnimalHotel.csproj|solutionrelative:animalhotel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6F8A578-6BCB-4BB3-937B-2950E39F001B}|AnimalHotel\\AnimalHotel.csproj|c:\\users\\admin\\onedrive\\desktop\\hillelpro\\hw\\extensionsforprogram\\lessons.pro\\animalhotel\\owner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6F8A578-6BCB-4BB3-937B-2950E39F001B}|AnimalHotel\\AnimalHotel.csproj|solutionrelative:animalhotel\\owner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IAnimal.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\HillelPro\\hw\\ExtensionsForProgram\\Lessons.Pro\\AnimalHotel\\Animals\\IAnimal.cs",
+              "RelativeDocumentMoniker": "AnimalHotel\\Animals\\IAnimal.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\HillelPro\\hw\\ExtensionsForProgram\\Lessons.Pro\\AnimalHotel\\Animals\\IAnimal.cs",
+              "RelativeToolTip": "AnimalHotel\\Animals\\IAnimal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T06:11:20.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dog.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\HillelPro\\hw\\ExtensionsForProgram\\Lessons.Pro\\AnimalHotel\\Animals\\Dog.cs",
+              "RelativeDocumentMoniker": "AnimalHotel\\Animals\\Dog.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\HillelPro\\hw\\ExtensionsForProgram\\Lessons.Pro\\AnimalHotel\\Animals\\Dog.cs",
+              "RelativeToolTip": "AnimalHotel\\Animals\\Dog.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwBEAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T06:11:19.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cat.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\HillelPro\\hw\\ExtensionsForProgram\\Lessons.Pro\\AnimalHotel\\Animals\\Cat.cs",
+              "RelativeDocumentMoniker": "AnimalHotel\\Animals\\Cat.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\HillelPro\\hw\\ExtensionsForProgram\\Lessons.Pro\\AnimalHotel\\Animals\\Cat.cs",
+              "RelativeToolTip": "AnimalHotel\\Animals\\Cat.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T06:11:18.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AnimalFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\HillelPro\\hw\\ExtensionsForProgram\\Lessons.Pro\\AnimalHotel\\Animals\\AnimalFactory.cs",
+              "RelativeDocumentMoniker": "AnimalHotel\\Animals\\AnimalFactory.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\HillelPro\\hw\\ExtensionsForProgram\\Lessons.Pro\\AnimalHotel\\Animals\\AnimalFactory.cs",
+              "RelativeToolTip": "AnimalHotel\\Animals\\AnimalFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T06:11:17.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RomashkaHotel.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\HillelPro\\hw\\ExtensionsForProgram\\Lessons.Pro\\AnimalHotel\\Hotel\\RomashkaHotel.cs",
+              "RelativeDocumentMoniker": "AnimalHotel\\Hotel\\RomashkaHotel.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\HillelPro\\hw\\ExtensionsForProgram\\Lessons.Pro\\AnimalHotel\\Hotel\\RomashkaHotel.cs",
+              "RelativeToolTip": "AnimalHotel\\Hotel\\RomashkaHotel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T06:11:15.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "KyivHotel.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\HillelPro\\hw\\ExtensionsForProgram\\Lessons.Pro\\AnimalHotel\\Hotel\\KyivHotel.cs",
+              "RelativeDocumentMoniker": "AnimalHotel\\Hotel\\KyivHotel.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\HillelPro\\hw\\ExtensionsForProgram\\Lessons.Pro\\AnimalHotel\\Hotel\\KyivHotel.cs",
+              "RelativeToolTip": "AnimalHotel\\Hotel\\KyivHotel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T06:11:14.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GenericHotel.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\HillelPro\\hw\\ExtensionsForProgram\\Lessons.Pro\\AnimalHotel\\Hotel\\GenericHotel.cs",
+              "RelativeDocumentMoniker": "AnimalHotel\\Hotel\\GenericHotel.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\HillelPro\\hw\\ExtensionsForProgram\\Lessons.Pro\\AnimalHotel\\Hotel\\GenericHotel.cs",
+              "RelativeToolTip": "AnimalHotel\\Hotel\\GenericHotel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T06:11:14.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\HillelPro\\hw\\ExtensionsForProgram\\Lessons.Pro\\AnimalHotel\\Program.cs",
+              "RelativeDocumentMoniker": "AnimalHotel\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\HillelPro\\hw\\ExtensionsForProgram\\Lessons.Pro\\AnimalHotel\\Program.cs",
+              "RelativeToolTip": "AnimalHotel\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T06:11:01.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Owner.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\HillelPro\\hw\\ExtensionsForProgram\\Lessons.Pro\\AnimalHotel\\Owner.cs",
+              "RelativeDocumentMoniker": "AnimalHotel\\Owner.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\HillelPro\\hw\\ExtensionsForProgram\\Lessons.Pro\\AnimalHotel\\Owner.cs",
+              "RelativeToolTip": "AnimalHotel\\Owner.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T06:11:00.751Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -2,13 +2,19 @@ namespace AnimalHotel.Animals;
 
 public class Cat : IAnimal, IComparable<Cat>
 {
-    private Cat(string name, Owner owner)
+    private Cat(string name, int age, string color, Owner owner, int ownerAge)
     {
         Name = name;
+        Age = age;
+        Color = color;
         Owner = owner;
+        OwnerAge = ownerAge;
     }
     public string Name { get; set; }
-    
+    public int Age { get; set; }
+    public string Color { get; set; }
+    public int OwnerAge { get; set; }
+
     public Owner Owner { get; private set; }
     
     public void Meow()
