@@ -3,12 +3,12 @@ using AnimalHotel.Animals;
 
 namespace AnimalHotel.Hotel;
 
+
 public class GenericHotel<TData> : IEnumerable<TData> where TData : IAnimal
 {
     private int _count = 0;
     private int _capacity = 4;
     private TData[] _animals = new TData[4];
-    
     public void FeedAnimals()
     {
         foreach (var animal in _animals)
@@ -23,6 +23,24 @@ public class GenericHotel<TData> : IEnumerable<TData> where TData : IAnimal
         {
             animal.Sleep();
         }
+    }
+    public void SortByAge()
+    {
+        var sortetedArray = new TData[_count];
+        for (int i = 0; i < sortetedArray.Length; i++)
+            sortetedArray[i] = _animals[i];
+        sortetedArray = sortetedArray.OrderBy(x => x.Age).ToArray();
+        for (int i = 0;i < sortetedArray.Length;i++)
+            _animals[i] = sortetedArray[i];
+    }
+    public void SortByDescendingAge()
+    {
+        var sortetedArray = new TData[_count];
+        for (int i = 0; i < sortetedArray.Length; i++)
+            sortetedArray[i] = _animals[i];
+        sortetedArray = sortetedArray.OrderByDescending(x => x.Age).ToArray();
+        for (int i = 0; i < sortetedArray.Length; i++)
+            _animals[i] = sortetedArray[i];
     }
     
     public void AddAnimal(TData animal)
@@ -43,7 +61,25 @@ public class GenericHotel<TData> : IEnumerable<TData> where TData : IAnimal
             Console.WriteLine(animal.Name);
         }
     }
-    
+    public TData[] GetAllAnimalsByOwner(string ownerName)
+    {
+        if (ownerName == null) throw new NullReferenceException("cant search for animal with null as owner");
+        var animalsWithOwner = new TData[_count];
+        int amount = 0;
+        for (int i = 0; i < _count; i++)
+        {
+            
+                if (_animals[i].Owner.Name == ownerName)
+                {
+                    animalsWithOwner[amount++] = _animals[i];
+                }
+        }
+        var result = new TData[amount];
+        for (int i = 0; i < amount; i++)
+            result[i] = animalsWithOwner[i];
+        return result;
+    }
+
     public TData this[int index]
     {
         get => _animals[index];
@@ -52,16 +88,10 @@ public class GenericHotel<TData> : IEnumerable<TData> where TData : IAnimal
 
     public IEnumerator<TData> GetEnumerator()
     {
-        yield return _animals[0];
-        yield return _animals[1];
-        yield return _animals[2];
-        yield return _animals[3];
-        yield return _animals[4];
-        yield return _animals[5];
-        yield return _animals[6];
-        yield return _animals[7];
-        yield return _animals[8];
-        yield return _animals[9];
+        for (var i = 0; i < _count; i++)
+        {
+            yield return _animals[i];
+        }
     }
 
     IEnumerator IEnumerable.GetEnumerator()

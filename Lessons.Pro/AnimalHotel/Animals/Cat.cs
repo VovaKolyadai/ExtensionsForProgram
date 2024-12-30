@@ -32,9 +32,9 @@ public class Cat : IAnimal, IComparable<Cat>
         Console.WriteLine($"{nameof(Cat)} is sleeping");
     }
     
-    public static Cat CreateCat(string name, Owner owner)
+    public static Cat CreateCat(string name, int age, string color, Owner owner, int ownerAge)
     {
-        return new Cat(name, owner);
+        return new Cat(name, age, color, owner, ownerAge);
     }
     
     // https://refactoring.guru/design-patterns/factory-method

@@ -6,11 +6,13 @@ public interface IAnimal
     int Age { get; set; }
     string Color { get; set; }
     int OwnerAge { get; set; }
-    
+    public Owner Owner { get; }
+
     void Eat();
 
     void Sleep()
     {
         Console.WriteLine($"{nameof(IAnimal)} is sleeping");   
     }
+
 }

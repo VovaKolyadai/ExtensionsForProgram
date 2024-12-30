@@ -30,8 +30,8 @@ public class Dog : IAnimal
     
     
     // https://refactoring.guru/design-patterns/factory-method
-    public static Dog CreateDog(string name, Owner owner)
+    public static Dog CreateDog(string name, int age, string color, Owner owner, int ownerAge)
     {
-        return new Dog(name, owner);
+        return new Dog(name, age, color, owner, ownerAge);
     }
 }
